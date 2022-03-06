@@ -24,5 +24,3 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 
 Made with 💜 by Thais Machado
-
-[⬆ Voltar ao topo](#landing-page-1)<br>
